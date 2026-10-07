@@ -1,4 +1,4 @@
-<p align="center">I'm a graphics programmer.</p>
+<p align="center">I'm a graphics programmer, focused on geometry, deformations and animated meshes. I use C#, C++, hlsl, slang etc</p>
 
 ###
 <div align="center">
